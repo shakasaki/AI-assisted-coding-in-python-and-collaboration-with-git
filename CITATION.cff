@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+title: "AI-Aided Programming and Collaborative Software Development — Course Slides"
+type: dataset
+authors:
+  - family-names: Shakas
+    given-names: Alexis
+    affiliation: "ETH Zürich, Department of Earth Sciences (D-EAPS)"
+    orcid: ""
+repository-code: "https://github.com/shakasaki/AI-assisted-coding-in-python-and-collaboration-with-git"
+abstract: >
+  Lecture slides for the ETH Zürich Innovedum-funded course on AI-assisted
+  scientific programming in Python and collaborative software development with Git.
+  The course covers AI coding tools, Git workflows, Python best practices,
+  testing, packaging, and object-oriented programming.
+keywords:
+  - python
+  - git
+  - AI-assisted programming
+  - scientific computing
+  - teaching
+  - ETH Zürich
+license: CC-BY-NC-4.0
+version: "2026"
+date-released: "2026-06-30"

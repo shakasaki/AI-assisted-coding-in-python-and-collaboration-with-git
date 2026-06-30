@@ -39,4 +39,8 @@ The course teaches AI-assisted scientific programming in Python alongside Git-ba
 
 ## License
 
-Course material released for educational reuse. Please credit the course and check with the authors before redistribution outside ETH.
+[CC BY-NC 4.0](LICENSE) — free to reuse and adapt for teaching with attribution; not for commercial use.
+
+## Citation
+
+If you use this material, please cite it. A `CITATION.cff` file is included — GitHub renders a "Cite this repository" button above. A DOI is available via Zenodo once a release is tagged.
