@@ -6,6 +6,10 @@ authors:
     given-names: Alexis
     affiliation: "ETH Zürich, Department of Earth and Planetary Sciences (D-EAPS)"
     orcid: "https://orcid.org/0000-0001-6572-4040"
+  - family-names: Stavratis
+    given-names: Konstantinos
+    affiliation: "Arthrex Swiss AG. Engineering"
+    orcid: "https://orcid.org/0009-0008-7064-2646"
 doi: "10.5281/zenodo.21071878"
 repository-code: "https://github.com/shakasaki/AI-assisted-coding-in-python-and-collaboration-with-git"
 abstract: >
