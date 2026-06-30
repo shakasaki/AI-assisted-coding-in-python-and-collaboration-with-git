@@ -5,7 +5,7 @@ Slide decks for the ETH Zürich course **AI-Aided Programming and Collaborative 
 The course teaches AI-assisted scientific programming in Python alongside Git-based version control and collaborative project development. Students from across ETH departments work in teams on a semester-long project, completing assignments and delivering a working software product.
 
 **Lecturer:** Dr. Alexis Shakas, Department of Earth Sciences (D-EAPS), ETH Zürich  
-**Teaching assistants:** Konstantinos Stavratis, Jan Manstch, Ian Wasser
+**Teaching assistants:** Konstantinos Stavratis, Jan Mantsch, Ian Wasser
 
 ---
 
