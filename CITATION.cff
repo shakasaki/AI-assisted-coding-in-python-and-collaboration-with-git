@@ -6,6 +6,7 @@ authors:
     given-names: Alexis
     affiliation: "ETH Zürich, Department of Earth Sciences (D-EAPS)"
     orcid: ""
+doi: "10.5281/zenodo.21071878"
 repository-code: "https://github.com/shakasaki/AI-assisted-coding-in-python-and-collaboration-with-git"
 abstract: >
   Lecture slides for the ETH Zürich Innovedum-funded course on AI-assisted

@@ -1,5 +1,7 @@
 # AI-Aided Programming and Collaborative Software Development
 
+[![DOI](https://zenodo.org/badge/1285029123.svg)](https://doi.org/10.5281/zenodo.21071877)
+
 Slide decks for the ETH Zürich course **AI-Aided Programming and Collaborative Software Development**, funded by [Innovedum](https://innovedumprojects.ethz.ch/projects/ai-aided-programming-and-collaborative-software-development/).
 
 The course teaches AI-assisted scientific programming in Python alongside Git-based version control and collaborative project development. Students from across ETH departments work in teams on a semester-long project, completing assignments and delivering a working software product.
@@ -43,4 +45,4 @@ The course teaches AI-assisted scientific programming in Python alongside Git-ba
 
 ## Citation
 
-If you use this material, please cite it. A `CITATION.cff` file is included — GitHub renders a "Cite this repository" button above. A DOI is available via Zenodo once a release is tagged.
+If you use this material, please cite it. A `CITATION.cff` file is included — GitHub renders a "Cite this repository" button above. DOI: [10.5281/zenodo.21071878](https://doi.org/10.5281/zenodo.21071878).
