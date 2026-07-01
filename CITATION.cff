@@ -10,6 +10,10 @@ authors:
     given-names: Konstantinos
     affiliation: "Arthrex Swiss AG. Engineering"
     orcid: "https://orcid.org/0009-0008-7064-2646"
+  - family-names: Wasser
+    given-names: Ian
+    affiliation: "ETH Zürich, Department of Computer Science (D-INFK)"
+    orcid: "https://orcid.org/0009-0003-2262-1692"
 doi: "10.5281/zenodo.21071878"
 repository-code: "https://github.com/shakasaki/AI-assisted-coding-in-python-and-collaboration-with-git"
 abstract: >
